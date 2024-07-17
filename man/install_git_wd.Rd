@@ -11,6 +11,9 @@ install_git_wd(pdata_path, ...)
 
 \item{...}{arguments for remotes::install_git}
 }
+\value{
+invisible
+}
 \description{
 wrapper to install git from network drives
 }
