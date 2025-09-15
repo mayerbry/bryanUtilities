@@ -3,3 +3,4 @@
 export(install_git_wd)
 export(list_chunks)
 export(make_reproducibility_chunk)
+export(source_rmd)
